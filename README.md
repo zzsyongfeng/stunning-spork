@@ -4,7 +4,7 @@
 
 ### 一、yongfeng_WeChatScanLoginCode项目，使用SpringMvc实现简单的验证码功能
 	
-详情使用请参考：<a href="" target="_blank">springboot微信开放平台实现微信扫码登录</a>
+详情使用请参考：<a href="" target="_blank">springboot示例微信开放平台实现微信扫码登录</a>
 
 
 ----------
