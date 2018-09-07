@@ -2,9 +2,9 @@
 
 > 这个仓库存放学习过程中，自己所用的一些技术Demo示例
 
-### 一、yongfeng_WeChatScanLoginCode项目，使用SpringMvc实现简单的验证码功能
+### 一、yf_WeChatScanLoginCode项目，SpringBoot实现微信扫码登录功能让网站支持使用微信登录
 	
-详情使用请参考：<a href="" target="_blank">springboot示例微信开放平台实现微信扫码登录</a>
+详情使用请参考：<a href="https://blog.csdn.net/yongfeng929/article/details/82494869" target="_blank">SpringBoot实现微信扫码登录功能让网站支持使用微信登录</a>
 
 
 ----------
