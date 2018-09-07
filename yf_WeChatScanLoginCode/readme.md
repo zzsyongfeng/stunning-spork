@@ -1,13 +1,7 @@
 
-### 一、yf_WeChatScanLoginCode项目，SpringBoot实现微信扫码登录功能让网站支持使用微信登录
+### yf_WeChatScanLoginCode项目，SpringBoot实现微信扫码登录功能让网站支持使用微信登录
 	
 详情使用请参考：<a href="https://blog.csdn.net/yongfeng929/article/details/82494869" target="_blank">SpringBoot实现微信扫码登录功能让网站支持使用微信登录</a>
-
-
-----------
-<font size='14' color='green'>持续更新.....</font>
-
-----------
 
 
 <font size=4 color=blue>欢迎访问我的csdn博客，我们共同学习，一起成长！</font>
